@@ -32,7 +32,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 a period of time that a server allow users to access its resources by exchanging encrypted data  , 
 1. What does bcrypt do to help us store passwords in a secure manner. hashing passwords, adding salt to passwords before hashing them, hashing passwords with multiple rounds
 1. What does bcrypt do to slow down attackers? hash the password multiple times
-1. What are the three parts of the JSON Web Token? header, payload, signature
+1. What are the three parts of the JSON Web Token? secret, payload, signature
 
 ## Project Set Up
 
